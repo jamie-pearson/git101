@@ -1,0 +1,4 @@
+This is a strange file to see if I want to extend this branch
+Factorials are very simple things. They're just products, indicated by an exclamation mark. For instance, "four factorial" is written as "4!" and means 1×2×3×4 = 24. In general, n! ("enn factorial") means the product of all the whole numbers from 1 to n; that is, n! = 1×2×3×...×n.
+
+(For various reasons, 0! is defined to be equal to 1, not 0. Memorize this now: 0! = 1.)
